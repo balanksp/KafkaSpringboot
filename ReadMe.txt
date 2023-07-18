@@ -15,8 +15,7 @@ OrderService , ProviderService , DeliveryService
 stacks 
 ------
 maven       4
+java        11
 springBoot  2.7.13
 postgresql 14
 JpaRepo 
-
-
